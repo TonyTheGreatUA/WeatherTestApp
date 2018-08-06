@@ -1,0 +1,12 @@
+C:\Users\Sanya\source\repos\WeatherTest\WeatherTest\bin\Debug\netcoreapp2.0\WeatherTest.deps.json
+C:\Users\Sanya\source\repos\WeatherTest\WeatherTest\bin\Debug\netcoreapp2.0\WeatherTest.runtimeconfig.json
+C:\Users\Sanya\source\repos\WeatherTest\WeatherTest\bin\Debug\netcoreapp2.0\WeatherTest.runtimeconfig.dev.json
+C:\Users\Sanya\source\repos\WeatherTest\WeatherTest\bin\Debug\netcoreapp2.0\WeatherTest.dll
+C:\Users\Sanya\source\repos\WeatherTest\WeatherTest\bin\Debug\netcoreapp2.0\WeatherTest.pdb
+C:\Users\Sanya\source\repos\WeatherTest\WeatherTest\obj\Debug\netcoreapp2.0\WeatherTest.csprojResolveAssemblyReference.cache
+C:\Users\Sanya\source\repos\WeatherTest\WeatherTest\obj\Debug\netcoreapp2.0\WeatherTest.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\source\repos\WeatherTest\WeatherTest\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Sanya\source\repos\WeatherTest\WeatherTest\obj\Debug\netcoreapp2.0\WeatherTest.AssemblyInfoInputs.cache
+C:\Users\Sanya\source\repos\WeatherTest\WeatherTest\obj\Debug\netcoreapp2.0\WeatherTest.AssemblyInfo.cs
+C:\Users\Sanya\source\repos\WeatherTest\WeatherTest\obj\Debug\netcoreapp2.0\WeatherTest.dll
+C:\Users\Sanya\source\repos\WeatherTest\WeatherTest\obj\Debug\netcoreapp2.0\WeatherTest.pdb
